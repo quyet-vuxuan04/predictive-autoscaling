@@ -1,9 +1,4 @@
-# predictive-autoscaling
-Dưới đây là một mẫu mô tả dự án (Project Description) được thiết kế chuẩn chỉnh, rất thích hợp để bạn đặt ở đầu file `README.md` trên GitHub, đưa vào mục "Tóm tắt đồ án", hoặc dùng để giới thiệu trong CV xin việc (Portfolio).
 
-Mô tả này được viết theo tư duy giải quyết vấn đề (Problem - Solution) để bật lên giá trị kỹ thuật của bạn.
-
----
 
 # 🚀 Predictive Autoscaling cho Kubernetes với LSTM & KEDA
 
