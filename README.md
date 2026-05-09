@@ -36,4 +36,3 @@ Bộ tự động co giãn mặc định của Kubernetes (HPA) hoạt động t
 
 ---
 
-**Mẹo nhỏ:** Nếu bạn đăng dự án này lên GitHub, hãy chèn thêm một bức ảnh **Sơ đồ kiến trúc (System Architecture)** mà chúng ta đã phác thảo ở Hướng dẫn số 0 ngay dưới phần "Công nghệ sử dụng" nhé. Kỹ sư tuyển dụng nhìn vào mô tả này là biết ngay bạn là người làm được việc!
